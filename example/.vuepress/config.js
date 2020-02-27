@@ -16,6 +16,7 @@ module.exports = {
     [
       require('../../lib'),
       {
+        authToken: 'QEFrEJv6x3GxYGZqe1bDM239ao0nqqRnOUhPTQ1G',
         repoUrl: 'https://www.yuque.com/slasher/ys2kwd',
         home: {
           actionText: 'Alohomora →',
