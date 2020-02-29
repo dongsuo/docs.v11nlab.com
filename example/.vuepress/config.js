@@ -35,6 +35,11 @@ module.exports = {
       {
         'ga': 'UA-159222254-1' // UA-00000000-0
       }
-    ]
+    ],
+    [
+      'sitemap',
+     {
+      hostname: 'https://vislib.best'
+    }]
   ]
 }
